@@ -1,6 +1,5 @@
 # Flutter ToDo App
 
-A basic to-do app built with Flutter. This app has add/delete/update functinality with search for any existing to-do item in the app.
-
+Aplikasi tugas dasar yang dibuat dengan Flutter. Aplikasi ini memiliki fungsi tambah/hapus/perbarui dengan mencari item tugas dalam aplikasi.
 
 
